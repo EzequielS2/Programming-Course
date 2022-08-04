@@ -1,0 +1,3 @@
+A vida so e vivida quando e envolvida na vida de outra vida.
+O principio fundamental do calculo 1 diz: Seja f continua em todo o seu domio e g uma funcao continua em todo seu dominio.
+Se G(x) e igual a integral definida de a ate x f(t)dt, entao a derivada de g(x) e a f(x).
