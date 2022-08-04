@@ -1,0 +1,19 @@
+Alagoas 10000
+
+Parana 1222002
+
+Pirai 1201201
+
+Pernambuco 120210
+
+Bahia 1000000
+
+Acre 100002
+
+Goias 3403430
+
+Roraima 36900
+
+Niteroi 20000
+
+Amapa 12010
