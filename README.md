@@ -1,2 +1,3 @@
 # C-Programming
-Solve problems in C
+
+Curso de programação em c.
